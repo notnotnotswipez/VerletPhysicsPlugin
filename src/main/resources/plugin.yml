@@ -1,0 +1,8 @@
+name: VerletPhysicsPlugin
+version: '${project.version}'
+main: me.swipez.verletphysicsplugin.VerletPhysicsPlugin
+api-version: 1.19
+authors: [ notnotnotswipez ]
+commands:
+  physics:
+    usage: /physics
