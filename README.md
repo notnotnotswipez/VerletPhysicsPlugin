@@ -1,6 +1,7 @@
 # VerletPhysicsPlugin
 
 This is just a little test plugin for Verlet physics integration in Vanilla minecraft. (Calculated server side.)
+Literally only to show that something like this is possible, and for reference for others interested in simulations in Minecraft.
 
 It doesnt have much functionality unless you like messing with shapes and constructions and all that.
 
@@ -31,7 +32,7 @@ points xyz)
 # Help
 If you are a physics person, PLEASE make the plugin better and contrubute to fix some of these issues. Im begging you.
 Things that dont work at the moment and that I just cant figure out:
-- Collisions in general at a smaller scale (Its incredible unstable for particles connected with a distance less than one block)
+- Collisions in general at a smaller scale (Its incredibly unstable for particles connected with a distance less than one block)
 - Collision and responses between two points
 - Collisions for the sticks
 - Collisions between entities and points
