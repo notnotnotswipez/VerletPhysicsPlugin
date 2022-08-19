@@ -31,6 +31,7 @@ points xyz)
 # Help
 If you are a physics person, PLEASE make the plugin better and contrubute to fix some of these issues. Im begging you.
 Things that dont work at the moment and that I just cant figure out:
+- Collisions in general at a smaller scale (Its incredible unstable for particles connected with a distance less than one block)
 - Collision and responses between two points
 - Collisions for the sticks
 - Collisions between entities and points
